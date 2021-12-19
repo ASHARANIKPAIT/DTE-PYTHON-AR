@@ -1,4 +1,4 @@
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ASHA RANI K P/DTE_PYTHON_AR_Workshop/master)  
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ASHARANIKPAIT/DTE_PYTHON_AR_Workshop/main)  
 
 This repository contains the materials for the **"One Week Faculty Development Programme on Thinking Programming"** workshop carried out at NITTR, KR Circle, Bengaluru - 01 from 20th December to 23th December 2021.
 
